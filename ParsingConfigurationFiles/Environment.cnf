@@ -1,0 +1,9 @@
+[QA]
+url=http://testingmasters.com/hrm/symfony/web/index.php/auth/login
+username="user01:
+password="pass1234"
+
+[DEV]
+url="http://testingmasters.com/hrm/symfony/web/index.php/auth/login"
+username="Devuser01:
+password="Devpass1234"

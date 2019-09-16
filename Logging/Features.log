@@ -1,0 +1,5 @@
+2019-09-15 10:26:13,058:DEBUG:<module>:The Sum of two number is 30:13:LogLevels.py
+2019-09-15 10:26:13,058:INFO:<module>:The Sum of two number is 30:14:LogLevels.py
+2019-09-15 10:26:13,058:WARNING:<module>:The Sum of two number is 30:15:LogLevels.py
+2019-09-15 10:26:13,058:ERROR:<module>:The Sum of two number is 30:16:LogLevels.py
+2019-09-15 10:26:13,058:CRITICAL:<module>:The Sum of two number is 30:17:LogLevels.py
