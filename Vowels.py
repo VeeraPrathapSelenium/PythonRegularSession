@@ -8,3 +8,4 @@ for x in str1:
         consonents+=1
 print(vowels)
 print(consonents)
+print("adding data")
