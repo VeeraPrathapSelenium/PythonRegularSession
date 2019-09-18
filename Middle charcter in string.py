@@ -9,3 +9,4 @@ if statement:
 else:
     value =int(x / 2)+1
     print(mystr[  value])
+    print("do something")
